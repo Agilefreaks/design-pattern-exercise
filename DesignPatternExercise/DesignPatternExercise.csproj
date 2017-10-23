@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Creational\Builder\UrlFormatter.cs" />
     <Compile Include="Creational\Factory\FeedType.cs" />
     <Compile Include="Creational\Factory\Movie.cs" />
     <Compile Include="Creational\Factory\MovieFeed.cs" />

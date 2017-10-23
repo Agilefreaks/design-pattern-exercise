@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Creational\Builder\EntitlementsTests.cs" />
     <Compile Include="Creational\Factory\MovieFeedTests.cs" />
     <Compile Include="Helpers\FixtureReader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,5 +66,6 @@
       <Name>DesignPatternExercise</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
